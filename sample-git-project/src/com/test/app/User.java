@@ -1,5 +1,6 @@
 package com.test.app;
 
+//comments added to check
 public class User {
 
 	private String name;
